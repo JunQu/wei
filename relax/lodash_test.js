@@ -1,0 +1,8 @@
+// const _ = require('./lodash')
+const my = require('./my_lodash')
+const t = require('./require_test')
+// console.log(_.add(1,2,3))
+// t.hello()
+// console.log(_.isNaN())
+console.log(my.add(1,2,3))
+// console.log(_.add(1,2))

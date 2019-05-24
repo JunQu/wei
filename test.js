@@ -1,1 +1,1 @@
-console.log('it works')
+console.log(exports === module.exports && module.exports === this)
