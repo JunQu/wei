@@ -2,6 +2,7 @@
   "name": "wei",
   "version": "1.0.0",
   "dependencies": {
-    "chinese-to-pinyin": "^0.1.8"
+    "chinese-to-pinyin": "^0.1.8",
+    "xlsx": "^0.14.3"
   }
 }
