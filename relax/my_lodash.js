@@ -21,7 +21,6 @@
             }
         }
 
-
         lodash.add = add
         lodash.templateSettings = {
             'imports': {
